@@ -1,4 +1,4 @@
-# Some notes on Collatz Conjecture
+# Some notes on The Collatz Conjecture
 
 **Some ideas**  
 First published: 28 November 2025  
