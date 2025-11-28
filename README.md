@@ -28,5 +28,5 @@ This proves instability of cycles and near-cycles, not their non-existence. Ruli
 
 ### Citation (if you ever want to reference it informally)
 Some Bloke Down the Pub, “Collatz Parity-Fragility and Near-Loop Instability”, GitHub repository, 28 November 2025.  
-https://github.com/docbgm2002/collatz-parity-fragility
+https://github.com/docbgm2002/collatz-things
 
