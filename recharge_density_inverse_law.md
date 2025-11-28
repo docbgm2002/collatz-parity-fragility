@@ -71,7 +71,7 @@ There is no mechanism for direct high-density growth.
 
 *(High-Density Inputs Cannot Grow)*
 
-### **Theorem 2.1 — Mersenne Fuse Decay**
+### **Theorem 3.1 — Mersenne Fuse Decay**
 
 Let
 
